@@ -12,19 +12,4 @@ Profile Management
 Students can view and update their personal information, contact details, and profile photo.
 Course Enrollment
 
-Students can browse available courses, enroll in classes, and view their current course list.
-Timetable/Schedule
 
-A calendar or schedule view showing class times, lecture halls, and exam dates.
-Grades and Assignments
-
-Students can view their grades, download assignments, and submit homework online.
-Announcements and Notifications
-
-Important updates from faculty or administration are posted and pushed as notifications.
-Resource Center
-
-Access to study materials, e-books, lecture slides, and other resources.
-Support and Contact
-
-A section to contact teachers, advisors, or administrative staff for help.
